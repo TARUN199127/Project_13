@@ -38,3 +38,10 @@
     border: 3px solid var(--primary);
 }
 
+.coordinator-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 7.5rem;
+}
+
