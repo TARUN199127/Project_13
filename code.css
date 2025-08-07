@@ -7,3 +7,12 @@
     box-shadow: var(--shadow-hover);
 }
 
+/* Club Details Section */
+.club-details .details-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.5rem;
+    colour :green
+}
+
