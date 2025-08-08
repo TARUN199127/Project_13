@@ -81,7 +81,8 @@
 .member-image {
     height: 180px;
     overflow: hidden;
-    background: #4a2222;
+    background: black;
+    width:90%
 }
 
 .member-image img {
@@ -91,4 +92,11 @@
     transition: var(--transition);
 }
 
+.member-card:hover .member-image img {
+    transform: scale(1.05);
+}
+
+.member-card h3 {
+    margin: 1.2rem 0 0.3rem;
+}
 
