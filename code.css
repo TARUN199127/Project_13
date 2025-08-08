@@ -61,3 +61,10 @@
     }
 }
 
+@media (max-width: 768px) {
+    .members-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+}
+
