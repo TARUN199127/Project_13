@@ -100,3 +100,16 @@
     margin: 1.2rem 0 0.3rem;
 }
 
+.position {
+    color: var(--primary);
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+/* Team Section (note: this section is not in your HTML, but styles are present) */
+.team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+}
+
