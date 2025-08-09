@@ -158,3 +158,13 @@
     letter-spacing: 1px;
 }
 
+.event-details {
+    padding: 1.5rem;
+    flex: 1;
+}
+
+.event-details h3 {
+    margin-bottom: 0.5rem;
+}
+
+
