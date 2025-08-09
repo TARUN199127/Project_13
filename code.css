@@ -182,4 +182,21 @@
     color: var(--primary);
 }
 
+.register-btn {
+    background: linear-gradient(90deg, var(--primary), var(--accent));
+    color: white;
+    border: none;
+    padding: 0.6rem 1.5rem;
+    border-radius: 30px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: var(--transition);
+    margin-top: 1rem;
+}
+
+.register-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow);
+}
+
 
