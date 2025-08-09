@@ -150,6 +150,7 @@
     font-size: 2rem;
     font-weight: 700;
     line-height: 1;
+    font-size:1;
 }
 
 .event-date .month {
@@ -160,11 +161,25 @@
 
 .event-details {
     padding: 1.5rem;
-    flex: 1;
+    flex: 2;
 }
 
 .event-details h3 {
     margin-bottom: 0.5rem;
+}
+
+.event-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.event-meta i {
+    margin-right: 0.3rem;
+    color: var(--primary);
 }
 
 
