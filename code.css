@@ -199,4 +199,16 @@
     box-shadow: var(--shadow);
 }
 
+.event-card:hover {
+    transform: translateY(-10px);
+    box-shadow: var(--shadow-hover);
+}
+
+/* Past Events */
+.event-gallery {
+    display: grid;
+    grid-template-columns:
+    repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+}
 
