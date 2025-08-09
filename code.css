@@ -226,7 +226,7 @@
     transition: var(--transition);
 }
 
-gallery-overlay {
+.gallery-overlay {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -242,4 +242,19 @@ gallery-overlay {
 .gallery-item:hover .gallery-overlay {
     transform: translateY(0);
     opacity: 1;
+
+.gallery-item:hover img{
+    transform: scale(1.05);
+}
+
+/* Testimonials */
+.testimonial-card {
+    background: var(--card-gradient);
+    padding: 2.5rem;
+    border-radius: 15px;
+    box-shadow: var(--shadow);
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+}
 
