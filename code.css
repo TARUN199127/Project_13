@@ -276,6 +276,6 @@
 
 .testimonial-author {
     display: flex;
-    align-items: center;
+    align-items: right corner;
     gap: 1rem;
 }
