@@ -5,8 +5,7 @@
 - Gradient backgrounds with soft shadows
 - Responsive layout with hover animations
 - Circular profile images with accent borders
-
-### 📅 Events Section
+📅 Events Section
 - Featured event highlighting
 - Gradient date badges
 - Responsive grid layout
