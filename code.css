@@ -7,7 +7,7 @@
     box-shadow: var(--shadow-hover);
 }
 
-/* Club Details Section */
+/* Club Details Section  or club details */
 .club-details .details-content {
     display: flex;
     flex-direction: column;
