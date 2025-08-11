@@ -47,4 +47,4 @@ To use this stylesheet:
 
 This project is proudly crafted with ❤ by TARUN V and the talented web development team:
 
-•⁠ ⁠Ishika Yadav – Masterminds the HTML and JavaScript structure •⁠ ⁠*Chaman Gowda, **Ujwal R, **Tharun V, *Swapna – Contributed to the sleek, responsive CSS styling and visual polish
+•⁠ ⁠Ishika Yadav – Masterminds the HTML and JavaScript structure •⁠ ⁠*Chaman Gowda, **Ujwal R, **Tarun V, *Swapna – Contributed to the sleek, responsive CSS styling and visual polish
