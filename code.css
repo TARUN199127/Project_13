@@ -7,7 +7,7 @@
     box-shadow: var(--shadow-hover);
 }
 
-/* Club Details Section */
+/* Club Details Section  or club details */
 .club-details .details-content {
     display: flex;
     flex-direction: column;
@@ -280,5 +280,8 @@
     gap: 1rem;
     colour:black;
 
+
 }
+ master
 /*added a line by Ishika*/
+/* ending code by ujwal */
